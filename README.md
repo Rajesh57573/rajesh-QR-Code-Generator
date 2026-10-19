@@ -19,7 +19,7 @@ A responsive QR Code Generator built using HTML, CSS, and JavaScript.
 3. Click **Generate QR Code**.
 4. Scan the generated QR code to access your content.
 
-Visit the [QR Code Generator] = https://rajesh-qr-code-generator.vercel.app/.
+Visit the [QR Code Generator] = https://rajesh-qr-code-generator.vercel.app
 
 ## 👨‍💻 Author
 Rajesh Paul
