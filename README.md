@@ -14,10 +14,12 @@ A responsive QR Code Generator built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 🚀 How to Use
-1. Clone or download this repository.
-2. Open `index.html` in your browser.
-3. Enter text or a URL.
-4. Click **Generate QR Code**.
+1. Visit the live website deployed on Vercel.
+2. Enter your text or URL.
+3. Click **Generate QR Code**.
+4. Scan the generated QR code to access your content.
+
+Visit the [QR Code Generator] = https://rajesh-qr-code-generator.vercel.app/.
 
 ## 👨‍💻 Author
 Rajesh Paul
