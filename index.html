@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QR Code Generator</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=arrow_outward,arrow_right_alt" />
+  <body>
+    <div class="background-shapes">
+      <span class="shapes shape-1"></span>
+      <span class="shapes shape-2"></span>
+      <span class="shapes shape-3"></span>
+    </div>
+    
+    <main class="container">
+      <h1>QR Code <span>Generator</span></h1>
+      <h2>Turn any text or link into a QR code. Scan, Share the QR code easily and enjoy it.</h2>
+      <p>Enter Your Text or URL</p>
+      <div class="input-box">
+        <span class="material-symbols-outlined">arrow_outward</span>
+        <input type="text" id="qr-input" placeholder="https://example.com" autocomplete="url" maxlength="1000">
+      </div>
+      <div id="imgbox"><img src="" alt="" id="qr-box"></div>
+      <button id="btn">Generate QR Code <span class="material-symbols-outlined">arrow_right_alt</span></button>
+
+      <footer>
+        <span class="footer-dot"></span>
+        <span class="footer-text">Fast · Free · Easy to use</span>
+      </footer>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
